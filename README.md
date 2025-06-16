@@ -84,16 +84,13 @@ Large Language Models (LLMs) like LLaMA3 can be fine-tuned to act as **domain-sp
 
 ```
 llama3_8B_finetune_unsloth/
-│
-├── train.json               # Training data
-├── test.json                # Evaluation data
-├── llma_finetuned.json      # Output from fine-tuned model
-├── llma_raw.json            # Output from base model
-├── accuracy_pie_chart.png   # Finetuned accuracy plot
-├── llma_raw_accuracy_pie.png # Raw model accuracy plot
-├── finetune_script.py       # Script to train using SFTTrainer
-├── inference_script.py      # Script to run inference
-└── README.md                # This file
+│-- llam3_8B_finetune(1).ipynb  # Main notebook
+├── metal.json                  # Data Used
+├── llma_finetuned.json         # Output from fine-tuned model
+├── llma_raw.json               # Output from base model
+├── llama_finetune_result.png   # Finetuned accuracy plot
+├── llama_raw_reults.png        # Raw model accuracy plot
+└── README.md                   # This file
 ```
 
 ---
