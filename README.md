@@ -118,10 +118,3 @@ llama3_8B_finetune_unsloth/
 
 ```
 
----
-
-Let me know if you'd like:
-- Badge-style metrics from Hugging Face Spaces.
-- GitHub Actions CI/CD for auto-training.
-- Colab notebook version of training/inference.
-```
