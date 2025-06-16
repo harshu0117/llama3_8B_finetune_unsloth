@@ -1,0 +1,308 @@
+[
+  {
+    "instruction": "Given composition, is it metal? ->",
+    "input": " Ba5Sb3\n",
+    "ground_truth": " Yes, Ba5Sb3 is metal.\n",
+    "raw_output": "Yes, it is metal. The composition Ba5Sb3 is a compound that contains barium (Ba) and antimony (Sb). The presence of a metal (Ba) and a nonmetal (Sb) indicates that the compound is a metal. This is because the metal is the primary component,"
+  },
+  {
+    "instruction": "Is given composition metal? ->",
+    "input": " Rb5(W4O15)2\n",
+    "ground_truth": " Yes, Rb5(W4O15)2 is metal.\n",
+    "raw_output": "Yes, it is a composition metal. The given compound, Rb5(W4O15)2, is a metal because it contains a metal (Rb) and a nonmetal (W and O). The presence of a metal in the compound indicates that it is a metal. The specific composition of the compound"
+  },
+  {
+    "instruction": "Is given composition metal? ->",
+    "input": " Li2ZnGe\n",
+    "ground_truth": " No, Li2ZnGe is not metal.\n",
+    "raw_output": "Yes, it is a composition metal. The given formula, Li2ZnGe, represents a compound composed of lithium (Li), zinc (Zn), and germanium (Ge). This combination of elements forms a metal alloy, which is a mixture of metals. In this case, the alloy is made up of"
+  },
+  {
+    "instruction": "Is given composition metal? ->",
+    "input": " ThRh2\n",
+    "ground_truth": " Yes, ThRh2 is metal.\n",
+    "raw_output": "Yes, it is a composition metal. The given formula ThRh2 indicates that it is a compound composed of thorium (Th) and rhodium (Rh), which are both metals. The subscript 2 after Rh indicates that there are two rhodium atoms for every thorium atom in the compound. This is a"
+  },
+  {
+    "instruction": "Is given composition metal? ->",
+    "input": " Ho2S3\n",
+    "ground_truth": " No, Ho2S3 is not metal.\n",
+    "raw_output": "Yes, it is. Ho2S3 is a composition of metal. The elements in the compound are H (hydrogen), O (oxygen), and S (sulfur). Among these, H and S are nonmetals, while O is a nonmetal in its elemental form but can exhibit metal-like"
+  },
+  {
+    "instruction": "Given composition, is it metal? ->",
+    "input": " Dy2(MoO4)3\n",
+    "ground_truth": " No, Dy2(MoO4)3 is not metal.\n",
+    "raw_output": "Yes, it is metal. The compound is a metal oxide. The prefix \"Dy\" stands for Dysprosium, a metal, and \"Mo\" stands for Molybdenum, another metal. The suffix \"oxide\" indicates that the compound is a metal oxide. Therefore, the compound is a"
+  },
+  {
+    "instruction": "Is given composition metal? ->",
+    "input": " Tl5Te3\n",
+    "ground_truth": " Yes, Tl5Te3 is metal.\n",
+    "raw_output": "Yes, it is a composition metal. Tl5Te3 is a compound composed of thallium (Tl) and tellurium (Te), which are both metals. The subscript numbers indicate the ratio of thallium to tellurium in the compound. This compound is a metal alloy, which is"
+  },
+  {
+    "instruction": "Is composition metal? ->",
+    "input": " NaSbF6\n",
+    "ground_truth": " No, NaSbF6 is not metal.\n",
+    "raw_output": "Yes, NaSbF6 is a composition metal. It is a type of metal that is composed of multiple elements, in this case, sodium (Na), antimony (Sb), and fluorine (F). Composition metals are typically formed through the combination of different elements, resulting in a new material with unique"
+  },
+  {
+    "instruction": "Is given composition metal? ->",
+    "input": " Nd(CoGe)2\n",
+    "ground_truth": " Yes, Nd(CoGe)2 is metal.\n",
+    "raw_output": "Yes, it is a composition metal. Composition metals are compounds that contain two or more elements, and in this case, Nd(CoGe)2 contains three elements: neodymium (Nd), cobalt (Co), and germanium (Ge). This compound is a type of intermetallic compound, which is"
+  },
+  {
+    "instruction": "Is composition metal? ->",
+    "input": " Sr10Al4Si6O\n",
+    "ground_truth": " Yes, Sr10Al4Si6O is metal.\n",
+    "raw_output": "Yes, it is. The chemical formula Sr10Al4Si6O20 indicates that it is a metal oxide. The presence of Sr (strontium), Al (aluminum), Si (silicon), and O (oxygen) in the formula suggests that it is a metal oxide, which is a type"
+  },
+  {
+    "instruction": "Given composition, is it metal? ->",
+    "input": " NaGaGe3Se8\n",
+    "ground_truth": " No, NaGaGe3Se8 is not metal.\n",
+    "raw_output": "Yes, it is metal. The compound NaGaGe3Se8 is a metal because it contains a metal element, which is gallium (Ga). Gallium is a metal in its elemental form and when combined with other elements, it retains its metallic properties. The presence of sodium (Na), germanium (Ge"
+  },
+  {
+    "instruction": "Is given composition metal? ->",
+    "input": " Ca3BiAs\n",
+    "ground_truth": " Yes, Ca3BiAs is metal.\n",
+    "raw_output": "Yes, it is a composition metal. The given formula, Ca3BiAs, represents a compound composed of calcium (Ca), bismuth (Bi), and arsenic (As). This compound is indeed a composition metal, as it contains a combination of metal elements. Composition metals are typically alloys or compounds that exhibit"
+  },
+  {
+    "instruction": "Is given composition metal? ->",
+    "input": " KAgO\n",
+    "ground_truth": " Yes, KAgO is metal.\n",
+    "raw_output": "Yes, it is given composition metal. KAgO is the chemical formula for silver potassium oxide, which is a type of metal oxide. Therefore, the answer is yes."
+  },
+  {
+    "instruction": "Is composition metal? ->",
+    "input": " NiAsO3\n",
+    "ground_truth": " Yes, NiAsO3 is metal.\n",
+    "raw_output": "Yes, NiAsO3 is a composition metal. It is a compound composed of nickel (Ni), arsenic (As), and oxygen (O). The presence of multiple elements in a single compound makes it a composition metal. Composition metals are typically alloys or compounds that exhibit the properties of metals, such as conductivity and"
+  },
+  {
+    "instruction": "Is given composition metal? ->",
+    "input": " Tb5Tl3\n",
+    "ground_truth": " Yes, Tb5Tl3 is metal.\n",
+    "raw_output": "Yes, it is a composition metal. The given notation Tb5Tl3 represents a compound composed of terbium (Tb) and thallium (Tl) in a specific ratio. Composition metals are alloys or compounds that contain two or more elements, often with a fixed ratio of these elements. In"
+  },
+  {
+    "instruction": "Given composition, is it metal? ->",
+    "input": " NdAl7Au3\n",
+    "ground_truth": " Yes, NdAl7Au3 is metal.\n",
+    "raw_output": "Yes, it is metal. The composition NdAl7Au3 is a compound that contains elements such as neodymium (Nd), aluminum (Al), and gold (Au). The presence of these elements, particularly the transition metals like neodymium and gold, suggests that the compound has metallic properties. The combination of"
+  },
+  {
+    "instruction": "Is composition metal? ->",
+    "input": " SmMgHg2\n",
+    "ground_truth": " Yes, SmMgHg2 is metal.\n",
+    "raw_output": "Yes, it is. The composition is a mixture of metals: Sm (samarium), Mg (magnesium), and Hg (mercury). All three elements are metals. Therefore, the composition is metal."
+  },
+  {
+    "instruction": "Is given composition metal? ->",
+    "input": " Ag3SbS3\n",
+    "ground_truth": " No, Ag3SbS3 is not metal.\n",
+    "raw_output": "Yes, it is a composition metal. The given compound is silver antimonide, which is a type of metal. The formula Ag3SbS3 indicates that it is composed of silver (Ag) and antimony (Sb) in a specific ratio, with sulfur (S) also present. This compound"
+  },
+  {
+    "instruction": "Given composition, is it metal? ->",
+    "input": " Sr4V2(Se2O7)3\n",
+    "ground_truth": " No, Sr4V2(Se2O7)3 is not metal.\n",
+    "raw_output": "Yes, it is metal. The compound is a metal oxide. The presence of a metal (strontium) and an oxide (selenium and oxygen) indicates that it is a metal compound. The formula Sr4V2(Se2O7)3 also suggests that it is a metal oxide, as it"
+  },
+  {
+    "instruction": "Given composition, is it metal? ->",
+    "input": " BaTaNO2\n",
+    "ground_truth": " No, BaTaNO2 is not metal.\n",
+    "raw_output": "Yes, it is metal.  BaTaNO2 is barium titanate, which is a metal oxide.  Barium (Ba) is a metal, and titanium (Ti) is a metal.  Nitrogen (N) is a nonmetal, but it is not a metal in this compound."
+  },
+  {
+    "instruction": "Given composition, is it metal? ->",
+    "input": " cup\n",
+    "ground_truth": " cup is not a composition and it is not metal.\n",
+    "raw_output": "Yes, it is metal. Cups are typically made of metal.  (Note: This is a very general response and may not be true for all cups. Some cups may be made of other materials like plastic, glass, or ceramic.)  However, the context of the question suggests that the answer is likely to be"
+  },
+  {
+    "instruction": "Given composition, is it metal? ->",
+    "input": " TaInNi\n",
+    "ground_truth": " Yes, TaInNi is metal.\n",
+    "raw_output": "Yes, it is metal. The composition TaInNi is a combination of the elements Tantalum (Ta), Indium (In), and Nickel (Ni), all of which are metals. Tantalum is a silvery-blue transition metal, Indium is a post-transition metal, and Nickel is a transition metal"
+  },
+  {
+    "instruction": "Is composition metal? ->",
+    "input": " Sm2Pd2Pb\n",
+    "ground_truth": " Yes, Sm2Pd2Pb is metal.\n",
+    "raw_output": "Yes, it is. The composition Sm2Pd2Pb is a metal. The elements Sm (Samarium), Pd (Palladium), and Pb (Lead) are all metals, and the combination of these elements in this specific ratio forms a metal alloy. The presence of these metal elements in"
+  },
+  {
+    "instruction": "Is composition metal? ->",
+    "input": " EuGe3Pt\n",
+    "ground_truth": " Yes, EuGe3Pt is metal.\n",
+    "raw_output": "Yes, EuGe3Pt is a composition metal. Composition metals are alloys that contain a combination of elements, and EuGe3Pt is a specific example of such an alloy. In this case, the alloy consists of europium (Eu), germanium (Ge), and platinum (Pt). The presence of multiple elements"
+  },
+  {
+    "instruction": "Given composition, is it metal? ->",
+    "input": " Cr3N2\n",
+    "ground_truth": " Yes, Cr3N2 is metal.\n",
+    "raw_output": "Yes, it is metal. Cr3N2 is a compound that contains chromium (Cr), which is a metal. The presence of a metal element in the compound indicates that it is a metal compound. Therefore, the answer is yes, it is metal."
+  },
+  {
+    "instruction": "Given composition, is it metal? ->",
+    "input": " PPdSe\n",
+    "ground_truth": " No, PPdSe is not metal.\n",
+    "raw_output": "Yes, it is metal.  Pd is a transition metal, and Se is a nonmetal.  When combined, they form a metal.  In this case, PdSe is a metal.  However, the question asks about PPdSe, which is a compound of Pd and Se."
+  },
+  {
+    "instruction": "Given composition, is it metal? ->",
+    "input": " RbYbZnSe3\n",
+    "ground_truth": " No, RbYbZnSe3 is not metal.\n",
+    "raw_output": "Yes, it is metal. The elements Rb, Yb, and Zn are metals. Se is a nonmetal, but it is in a compound with the metals, so the overall composition is a metal.  (Note: This is a bit of a tricky question, as the question is asking about the overall"
+  },
+  {
+    "instruction": "Is composition metal? ->",
+    "input": " Mn(SbSe2)2\n",
+    "ground_truth": " No, Mn(SbSe2)2 is not metal.\n",
+    "raw_output": "Yes, it is. Mn(SbSe2)2 is a metal. The composition of Mn(SbSe2)2 indicates that it is a compound made up of manganese (Mn), antimony (Sb), and selenium (Se). The presence of manganese, a transition metal, suggests that the compound"
+  },
+  {
+    "instruction": "Given composition, is it metal? ->",
+    "input": " CuPtO2\n",
+    "ground_truth": " Yes, CuPtO2 is metal.\n",
+    "raw_output": "Yes, it is metal. CuPtO2 is a compound that contains copper (Cu), platinum (Pt), and oxygen (O). The presence of platinum, a transition metal, and the fact that it is an oxide, suggests that CuPtO2 is a metal. In fact, CuPtO2 is"
+  },
+  {
+    "instruction": "Is given composition metal? ->",
+    "input": " CeAlO3\n",
+    "ground_truth": " Yes, CeAlO3 is metal.\n",
+    "raw_output": "Yes, it is given composition metal. The given composition is CeAlO3, which is a compound composed of cerium (Ce), aluminum (Al), and oxygen (O). This compound is known as cerium aluminate, and it is a type of ceramic material. Cerium aluminate is used in various"
+  },
+  {
+    "instruction": "Is composition metal? ->",
+    "input": " CeSiIr\n",
+    "ground_truth": " Yes, CeSiIr is metal.\n",
+    "raw_output": "Yes, it is. The composition CeSiIr is a metal. The elements involved are cerium (Ce), silicon (Si), iridium (Ir), which are all metals. Therefore, the composition CeSiIr is also a metal."
+  },
+  {
+    "instruction": "Is given composition metal? ->",
+    "input": " CdBr2\n",
+    "ground_truth": " No, CdBr2 is not metal.\n",
+    "raw_output": "Yes, CdBr2 is a composition metal. It is a compound composed of cadmium (Cd) and bromine (Br). In this compound, cadmium is the metal, and bromine is the nonmetal. The composition of CdBr2 is a result of the reaction between cadmium and bromine,"
+  },
+  {
+    "instruction": "Is given composition metal? ->",
+    "input": " Ce2Fe(SeO)2\n",
+    "ground_truth": " No, Ce2Fe(SeO)2 is not metal.\n",
+    "raw_output": "Yes, it is a composition metal. The given formula Ce2Fe(SeO)2 represents a compound that contains two cerium (Ce) atoms, one iron (Fe) atom, and one selenite (SeO) group. This compound is a type of metal, specifically a metal oxide or a"
+  },
+  {
+    "instruction": "Is composition metal? ->",
+    "input": " SmCuSe2\n",
+    "ground_truth": " No, SmCuSe2 is not metal.\n",
+    "raw_output": "Yes, it is. The compound SmCuSe2 is a composition metal. Composition metals are a class of materials that exhibit both metallic and non-metallic properties, often due to the presence of a metal and a non-metal in their chemical formula. In this case, SmCuSe2 contains the metal samarium ("
+  },
+  {
+    "instruction": "Is given composition metal? ->",
+    "input": " Sm6Br13\n",
+    "ground_truth": " Yes, Sm6Br13 is metal.\n",
+    "raw_output": "Yes, it is. The given compound is a composition metal. The compound Sm6Br13 is a composition metal because it contains a metal (samarium) and a nonmetal (bromine). Composition metals are typically formed by the reaction of a metal with a nonmetal, resulting in a compound that exhibits"
+  },
+  {
+    "instruction": "Is composition metal? ->",
+    "input": " TlInHgS3\n",
+    "ground_truth": " No, TlInHgS3 is not metal.\n",
+    "raw_output": "Yes, it is. TlInHgS3 is a sulfide mineral. Sulfide minerals are typically composed of metal sulfides. Therefore, TlInHgS3 is a composition of metals."
+  },
+  {
+    "instruction": "Given composition, is it metal? ->",
+    "input": " Tb(Al2Fe)4\n",
+    "ground_truth": " Yes, Tb(Al2Fe)4 is metal.\n",
+    "raw_output": "Yes, it is metal.  The composition Tb(Al2Fe)4 is a compound that contains the rare earth element terbium (Tb) and the transition metals aluminum (Al) and iron (Fe). The presence of these elements, particularly the transition metals, suggests that the compound has metallic properties."
+  },
+  {
+    "instruction": "Is given composition metal? ->",
+    "input": " LiSb3PbS6\n",
+    "ground_truth": " No, LiSb3PbS6 is not metal.\n",
+    "raw_output": "Yes, it is a composition metal. The given compound, LiSb3PbS6, is a metal because it contains a combination of elements that form a metal. Lithium (Li), antimony (Sb), lead (Pb), and sulfur (S) are all elements that can form a"
+  },
+  {
+    "instruction": "Is given composition metal? ->",
+    "input": " CsMg149\n",
+    "ground_truth": " Yes, CsMg149 is metal.\n",
+    "raw_output": "Yes, it is. The given composition is CsMg149, which is a metal. The presence of the alkali metal cesium (Cs) and the alkaline earth metal magnesium (Mg) indicates that the compound is a metal. The number 149 likely represents the atomic mass of the compound, which"
+  },
+  {
+    "instruction": "Is given composition metal? ->",
+    "input": " Y3Al3NiGe2\n",
+    "ground_truth": " Yes, Y3Al3NiGe2 is metal.\n",
+    "raw_output": "Yes, it is a composition metal. The input Y3Al3NiGe2 represents a compound made up of different elements, which is a characteristic of composition metals. Composition metals are alloys that contain a mixture of elements, often including metals and nonmetals, which are combined in specific proportions to produce unique properties."
+  },
+  {
+    "instruction": "Is given composition metal? ->",
+    "input": " BaAl2\n",
+    "ground_truth": " Yes, BaAl2 is metal.\n",
+    "raw_output": "Yes, it is given composition metal. The composition is BaAl2, which is barium aluminum. This is a type of intermetallic compound, which is a class of compounds that contain both metal and nonmetal elements. In this case, barium (Ba) is a metal, and aluminum (Al)"
+  },
+  {
+    "instruction": "Is given composition metal? ->",
+    "input": " Sn0.001Te1Pb0.999\n",
+    "ground_truth": " No, Sn0.001Te1Pb0.999 is not metal.\n",
+    "raw_output": "Yes, it is a composition metal. The given composition is Sn0.001Te1Pb0.999, which indicates that the material is a ternary alloy consisting of tin (Sn), tellurium (Te), and lead (Pb). The presence of lead, a metal, in the composition confirms"
+  },
+  {
+    "instruction": "Is given composition metal? ->",
+    "input": " CsHo9(Cd2Se9)2\n",
+    "ground_truth": " No, CsHo9(Cd2Se9)2 is not metal.\n",
+    "raw_output": "Yes, it is a composition metal. The input, CsHo9(Cd2Se9)2, represents a compound with a combination of elements, including cesium (Cs), holmium (Ho), cadmium (Cd), and selenium (Se). This compound is a type of metal due to its composition and"
+  },
+  {
+    "instruction": "Given composition, is it metal? ->",
+    "input": " GeS2\n",
+    "ground_truth": " No, GeS2 is not metal.\n",
+    "raw_output": "Yes, it is metal. GeS2 is a compound of germanium and sulfur. Germanium is a metalloid, and sulfur is a nonmetal. When combined, they form a compound that exhibits some properties of metals, such as conductivity. Therefore, GeS2 can be classified as a metal. However,"
+  },
+  {
+    "instruction": "Is given composition metal? ->",
+    "input": " Sc6Te2Os\n",
+    "ground_truth": " Yes, Sc6Te2Os is metal.\n",
+    "raw_output": "Yes, it is a composition metal. The given formula Sc6Te2Os represents a compound composed of scandium (Sc), tellurium (Te), and osmium (Os). This compound is indeed a composition metal, as it contains a combination of metal elements. Composition metals are typically alloys or compounds that exhibit"
+  },
+  {
+    "instruction": "Is composition metal? ->",
+    "input": " SrO\n",
+    "ground_truth": " No, SrO is not metal.\n",
+    "raw_output": "Yes, SrO is a composition metal. SrO is a compound made up of strontium (Sr) and oxygen (O). Strontium is a metal, and when it reacts with oxygen, it forms a compound that is also considered a metal oxide. Therefore, SrO is a composition metal."
+  },
+  {
+    "instruction": "Given composition, is it metal? ->",
+    "input": " PdO\n",
+    "ground_truth": " No, PdO is not metal.\n",
+    "raw_output": "Yes, it is metal. Pd is a metal. O is a nonmetal. PdO is a metal oxide. Metal oxides are typically metal. Therefore, PdO is a metal."
+  },
+  {
+    "instruction": "Is given composition metal? ->",
+    "input": " Yb(AlGe)2\n",
+    "ground_truth": " Yes, Yb(AlGe)2 is metal.\n",
+    "raw_output": "Yes, it is a composition metal. Yb(AlGe)2 is a compound that contains a combination of elements, specifically ytterbium (Yb), aluminum (Al), and germanium (Ge). The presence of multiple elements in a single compound makes it a composition metal. Composition metals are typically alloys"
+  },
+  {
+    "instruction": "Given composition, is it metal? ->",
+    "input": " LiInSn\n",
+    "ground_truth": " Yes, LiInSn is metal.\n",
+    "raw_output": "Yes, it is metal. Lithium (Li), Indium (In), and Tin (Sn) are all metals. The composition LiInSn is a mixture of these metals. Therefore, the composition is a metal.  The answer is yes."
+  },
+  {
+    "instruction": "Is composition metal? ->",
+    "input": " Tm(CuTe)3\n",
+    "ground_truth": " No, Tm(CuTe)3 is not metal.\n",
+    "raw_output": "Yes, it is. Tm(CuTe)3 is a compound that contains the rare earth element thulium (Tm) and the transition metal copper (Cu), along with the chalcogen tellurium (Te). The presence of a transition metal (Cu) and a rare earth element (T"
+  },
+  {
+    "instruction": "Is composition metal? ->",
+    "input": " AlCuSe2\n",
+    "ground_truth": " No, AlCuSe2 is not metal.\n",
+    "raw_output": "Yes, AlCuSe2 is a composition metal. It is a compound that contains aluminum (Al), copper (Cu), and selenium (Se) as its constituent elements. In this context, the term \"composition metal\" refers to a material that is composed of multiple elements, rather than a single element. AlCu"
+  }
+]

@@ -1,0 +1,308 @@
+[
+  {
+    "instruction": "Given composition, is it metal? ->",
+    "input": " Ba5Sb3\n",
+    "ground_truth": " Yes, Ba5Sb3 is metal.\n",
+    "finetuned_output": "Yes, Ba5Sb3 is metal.<|eos|>"
+  },
+  {
+    "instruction": "Is given composition metal? ->",
+    "input": " Rb5(W4O15)2\n",
+    "ground_truth": " Yes, Rb5(W4O15)2 is metal.\n",
+    "finetuned_output": "Yes, Rb5(W4O15)2 is metal.<|eos|>"
+  },
+  {
+    "instruction": "Is given composition metal? ->",
+    "input": " Li2ZnGe\n",
+    "ground_truth": " No, Li2ZnGe is not metal.\n",
+    "finetuned_output": "Yes, Li2ZnGe is metal.<|eos|>"
+  },
+  {
+    "instruction": "Is given composition metal? ->",
+    "input": " ThRh2\n",
+    "ground_truth": " Yes, ThRh2 is metal.\n",
+    "finetuned_output": "Yes, ThRh2 is metal.<|eos|>"
+  },
+  {
+    "instruction": "Is given composition metal? ->",
+    "input": " Ho2S3\n",
+    "ground_truth": " No, Ho2S3 is not metal.\n",
+    "finetuned_output": "No, Ho2S3 is not metal.<|eos|>"
+  },
+  {
+    "instruction": "Given composition, is it metal? ->",
+    "input": " Dy2(MoO4)3\n",
+    "ground_truth": " No, Dy2(MoO4)3 is not metal.\n",
+    "finetuned_output": "Yes, Dy2(MoO4)3 is metal.<|eos|>"
+  },
+  {
+    "instruction": "Is given composition metal? ->",
+    "input": " Tl5Te3\n",
+    "ground_truth": " Yes, Tl5Te3 is metal.\n",
+    "finetuned_output": "No, Tl5Te3 is not metal.<|eos|>"
+  },
+  {
+    "instruction": "Is composition metal? ->",
+    "input": " NaSbF6\n",
+    "ground_truth": " No, NaSbF6 is not metal.\n",
+    "finetuned_output": "No, NaSbF6 is not metal.<|eos|>"
+  },
+  {
+    "instruction": "Is given composition metal? ->",
+    "input": " Nd(CoGe)2\n",
+    "ground_truth": " Yes, Nd(CoGe)2 is metal.\n",
+    "finetuned_output": "Yes, Nd(CoGe)2 is metal.<|eos|>"
+  },
+  {
+    "instruction": "Is composition metal? ->",
+    "input": " Sr10Al4Si6O\n",
+    "ground_truth": " Yes, Sr10Al4Si6O is metal.\n",
+    "finetuned_output": "No, Sr10Al4Si6O is not metal.<|eos|>"
+  },
+  {
+    "instruction": "Given composition, is it metal? ->",
+    "input": " NaGaGe3Se8\n",
+    "ground_truth": " No, NaGaGe3Se8 is not metal.\n",
+    "finetuned_output": "No, NaGaGe3Se8 is not metal.<|eos|>"
+  },
+  {
+    "instruction": "Is given composition metal? ->",
+    "input": " Ca3BiAs\n",
+    "ground_truth": " Yes, Ca3BiAs is metal.\n",
+    "finetuned_output": "Yes, Ca3BiAs is metal.<|eos|>"
+  },
+  {
+    "instruction": "Is given composition metal? ->",
+    "input": " KAgO\n",
+    "ground_truth": " Yes, KAgO is metal.\n",
+    "finetuned_output": "Yes, KAgO is metal.<|eos|>"
+  },
+  {
+    "instruction": "Is composition metal? ->",
+    "input": " NiAsO3\n",
+    "ground_truth": " Yes, NiAsO3 is metal.\n",
+    "finetuned_output": "Yes, NiAsO3 is metal.<|eos|>"
+  },
+  {
+    "instruction": "Is given composition metal? ->",
+    "input": " Tb5Tl3\n",
+    "ground_truth": " Yes, Tb5Tl3 is metal.\n",
+    "finetuned_output": "Yes, Tb5Tl3 is metal.<|eos|>"
+  },
+  {
+    "instruction": "Given composition, is it metal? ->",
+    "input": " NdAl7Au3\n",
+    "ground_truth": " Yes, NdAl7Au3 is metal.\n",
+    "finetuned_output": "Yes, NdAl7Au3 is metal.<|eos|>"
+  },
+  {
+    "instruction": "Is composition metal? ->",
+    "input": " SmMgHg2\n",
+    "ground_truth": " Yes, SmMgHg2 is metal.\n",
+    "finetuned_output": "Yes, SmMgHg2 is metal.<|eos|>"
+  },
+  {
+    "instruction": "Is given composition metal? ->",
+    "input": " Ag3SbS3\n",
+    "ground_truth": " No, Ag3SbS3 is not metal.\n",
+    "finetuned_output": "No, Ag3SbS3 is not metal.<|eos|>"
+  },
+  {
+    "instruction": "Given composition, is it metal? ->",
+    "input": " Sr4V2(Se2O7)3\n",
+    "ground_truth": " No, Sr4V2(Se2O7)3 is not metal.\n",
+    "finetuned_output": "No, Sr4V2(Se2O7)3 is not metal.<|eos|>"
+  },
+  {
+    "instruction": "Given composition, is it metal? ->",
+    "input": " BaTaNO2\n",
+    "ground_truth": " No, BaTaNO2 is not metal.\n",
+    "finetuned_output": "No, BaTaNO2 is not metal.<|eos|>"
+  },
+  {
+    "instruction": "Given composition, is it metal? ->",
+    "input": " cup\n",
+    "ground_truth": " cup is not a composition and it is not metal.\n",
+    "finetuned_output": "cup is not a composition and it is not metal.<|eos|>"
+  },
+  {
+    "instruction": "Given composition, is it metal? ->",
+    "input": " TaInNi\n",
+    "ground_truth": " Yes, TaInNi is metal.\n",
+    "finetuned_output": "Yes, TaInNi is metal.<|eos|>"
+  },
+  {
+    "instruction": "Is composition metal? ->",
+    "input": " Sm2Pd2Pb\n",
+    "ground_truth": " Yes, Sm2Pd2Pb is metal.\n",
+    "finetuned_output": "Yes, Sm2Pd2Pb is metal.<|eos|>"
+  },
+  {
+    "instruction": "Is composition metal? ->",
+    "input": " EuGe3Pt\n",
+    "ground_truth": " Yes, EuGe3Pt is metal.\n",
+    "finetuned_output": "Yes, EuGe3Pt is metal.<|eos|>"
+  },
+  {
+    "instruction": "Given composition, is it metal? ->",
+    "input": " Cr3N2\n",
+    "ground_truth": " Yes, Cr3N2 is metal.\n",
+    "finetuned_output": "Yes, Cr3N2 is metal.<|eos|>"
+  },
+  {
+    "instruction": "Given composition, is it metal? ->",
+    "input": " PPdSe\n",
+    "ground_truth": " No, PPdSe is not metal.\n",
+    "finetuned_output": "No, PPdSe is not metal.<|eos|>"
+  },
+  {
+    "instruction": "Given composition, is it metal? ->",
+    "input": " RbYbZnSe3\n",
+    "ground_truth": " No, RbYbZnSe3 is not metal.\n",
+    "finetuned_output": "No, RbYbZnSe3 is not metal.<|eos|>"
+  },
+  {
+    "instruction": "Is composition metal? ->",
+    "input": " Mn(SbSe2)2\n",
+    "ground_truth": " No, Mn(SbSe2)2 is not metal.\n",
+    "finetuned_output": "No, Mn(SbSe2)2 is not metal.<|eos|>"
+  },
+  {
+    "instruction": "Given composition, is it metal? ->",
+    "input": " CuPtO2\n",
+    "ground_truth": " Yes, CuPtO2 is metal.\n",
+    "finetuned_output": "Yes, CuPtO2 is metal.<|eos|>"
+  },
+  {
+    "instruction": "Is given composition metal? ->",
+    "input": " CeAlO3\n",
+    "ground_truth": " Yes, CeAlO3 is metal.\n",
+    "finetuned_output": "No, CeAlO3 is not metal.<|eos|>"
+  },
+  {
+    "instruction": "Is composition metal? ->",
+    "input": " CeSiIr\n",
+    "ground_truth": " Yes, CeSiIr is metal.\n",
+    "finetuned_output": "Yes, CeSiIr is metal.<|eos|>"
+  },
+  {
+    "instruction": "Is given composition metal? ->",
+    "input": " CdBr2\n",
+    "ground_truth": " No, CdBr2 is not metal.\n",
+    "finetuned_output": "No, CdBr2 is not metal.<|eos|>"
+  },
+  {
+    "instruction": "Is given composition metal? ->",
+    "input": " Ce2Fe(SeO)2\n",
+    "ground_truth": " No, Ce2Fe(SeO)2 is not metal.\n",
+    "finetuned_output": "No, Ce2Fe(SeO)2 is not metal.<|eos|>"
+  },
+  {
+    "instruction": "Is composition metal? ->",
+    "input": " SmCuSe2\n",
+    "ground_truth": " No, SmCuSe2 is not metal.\n",
+    "finetuned_output": "No, SmCuSe2 is not metal.<|eos|>"
+  },
+  {
+    "instruction": "Is given composition metal? ->",
+    "input": " Sm6Br13\n",
+    "ground_truth": " Yes, Sm6Br13 is metal.\n",
+    "finetuned_output": "Yes, Sm6Br13 is metal.<|eos|>"
+  },
+  {
+    "instruction": "Is composition metal? ->",
+    "input": " TlInHgS3\n",
+    "ground_truth": " No, TlInHgS3 is not metal.\n",
+    "finetuned_output": "No, TlInHgS3 is not metal.<|eos|>"
+  },
+  {
+    "instruction": "Given composition, is it metal? ->",
+    "input": " Tb(Al2Fe)4\n",
+    "ground_truth": " Yes, Tb(Al2Fe)4 is metal.\n",
+    "finetuned_output": "Yes, Tb(Al2Fe)4 is metal.<|eos|>"
+  },
+  {
+    "instruction": "Is given composition metal? ->",
+    "input": " LiSb3PbS6\n",
+    "ground_truth": " No, LiSb3PbS6 is not metal.\n",
+    "finetuned_output": "No, LiSb3PbS6 is not metal.<|eos|>"
+  },
+  {
+    "instruction": "Is given composition metal? ->",
+    "input": " CsMg149\n",
+    "ground_truth": " Yes, CsMg149 is metal.\n",
+    "finetuned_output": "Yes, CsMg149 is metal.<|eos|>"
+  },
+  {
+    "instruction": "Is given composition metal? ->",
+    "input": " Y3Al3NiGe2\n",
+    "ground_truth": " Yes, Y3Al3NiGe2 is metal.\n",
+    "finetuned_output": "Yes, Y3Al3NiGe2 is metal.<|eos|>"
+  },
+  {
+    "instruction": "Is given composition metal? ->",
+    "input": " BaAl2\n",
+    "ground_truth": " Yes, BaAl2 is metal.\n",
+    "finetuned_output": "Yes, BaAl2 is metal.<|eos|>"
+  },
+  {
+    "instruction": "Is given composition metal? ->",
+    "input": " Sn0.001Te1Pb0.999\n",
+    "ground_truth": " No, Sn0.001Te1Pb0.999 is not metal.\n",
+    "finetuned_output": "No, Sn0.001Te1Pb0.999 is not metal.<|eos|>"
+  },
+  {
+    "instruction": "Is given composition metal? ->",
+    "input": " CsHo9(Cd2Se9)2\n",
+    "ground_truth": " No, CsHo9(Cd2Se9)2 is not metal.\n",
+    "finetuned_output": "No, CsHo9(Cd2Se9)2 is not metal.<|eos|>"
+  },
+  {
+    "instruction": "Given composition, is it metal? ->",
+    "input": " GeS2\n",
+    "ground_truth": " No, GeS2 is not metal.\n",
+    "finetuned_output": "No, GeS2 is not metal.<|eos|>"
+  },
+  {
+    "instruction": "Is given composition metal? ->",
+    "input": " Sc6Te2Os\n",
+    "ground_truth": " Yes, Sc6Te2Os is metal.\n",
+    "finetuned_output": "Yes, Sc6Te2Os is metal.<|eos|>"
+  },
+  {
+    "instruction": "Is composition metal? ->",
+    "input": " SrO\n",
+    "ground_truth": " No, SrO is not metal.\n",
+    "finetuned_output": "No, SrO is not metal.<|eos|>"
+  },
+  {
+    "instruction": "Given composition, is it metal? ->",
+    "input": " PdO\n",
+    "ground_truth": " No, PdO is not metal.\n",
+    "finetuned_output": "No, PdO is not metal.<|eos|>"
+  },
+  {
+    "instruction": "Is given composition metal? ->",
+    "input": " Yb(AlGe)2\n",
+    "ground_truth": " Yes, Yb(AlGe)2 is metal.\n",
+    "finetuned_output": "Yes, Yb(AlGe)2 is metal.<|eos|>"
+  },
+  {
+    "instruction": "Given composition, is it metal? ->",
+    "input": " LiInSn\n",
+    "ground_truth": " Yes, LiInSn is metal.\n",
+    "finetuned_output": "Yes, LiInSn is metal.<|eos|>"
+  },
+  {
+    "instruction": "Is composition metal? ->",
+    "input": " Tm(CuTe)3\n",
+    "ground_truth": " No, Tm(CuTe)3 is not metal.\n",
+    "finetuned_output": "No, Tm(CuTe)3 is not metal.<|eos|>"
+  },
+  {
+    "instruction": "Is composition metal? ->",
+    "input": " AlCuSe2\n",
+    "ground_truth": " No, AlCuSe2 is not metal.\n",
+    "finetuned_output": "No, AlCuSe2 is not metal.<|eos|>"
+  }
+]
