@@ -56,11 +56,11 @@ Yes, Ba5Sb3 is metal.
 
 ### 📈 Finetuned Accuracy Pie Chart
 
-![Finetuned Accuracy](llma_raw_accuracy_pie.png)
+![Finetuned Accuracy](llama_finetune_result.png)
 
 ### 📈 Raw Model Accuracy Pie Chart
 
-![Raw Accuracy](accuracy_pie_chart.png)
+![Raw Accuracy](llama_raw_result.png)
 
 ---
 
